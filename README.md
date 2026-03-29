@@ -50,4 +50,5 @@ Plotly · Folium · Pandas · NumPy · OpenPyXL
 | Linear Regression | 14-day per-country prediction |
 | Random Forest | Feature importance analysis |
 
-https://github.com/shadow12546-sketch/covid19-epidemic-prediction
+
+
